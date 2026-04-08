@@ -1,6 +1,6 @@
 # 🚀 Gamma Trade Lab
 
-<img width="1536" height="700" alt="image" src="https://github.com/user-attachments/assets/bccc2824-2c96-44f3-8e43-82fea303c756" />
+<img width="1536" height="800" alt="ChatGPT Image Apr 8, 2026, 10_43_41 AM" src="https://github.com/user-attachments/assets/20f9c418-a749-43f1-8094-5a618c9663de" />
 
 **Automated Crypto Trading Infrastructure for Serious Traders**
 
