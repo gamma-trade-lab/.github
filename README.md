@@ -89,6 +89,6 @@ What separates us from typical bot builders:
 
 ## 🔗 Connect
 
-- 🐦 Twitter: https://x.com/gammatradelab  
-- 💬 Telegram: https://t.me/gammatradelab  
+- 🐦 Twitter: [gammatradelab](https://x.com/gammatradelab)
+- 💬 Telegram: [gammatradelab](https://t.me/gammatradelab)  
 
